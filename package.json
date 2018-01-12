@@ -1,5 +1,5 @@
 {
-    "name": "appcache",
+    "name": "appcache-generator",
     "version": "1.0.0",
     "description": "Создание списка файлов. Применяется для *.appcache",
     "main": "appcache.js",
