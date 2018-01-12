@@ -1,0 +1,11 @@
+{
+    "name": "appcache",
+    "version": "1.0.0",
+    "description": "Создание списка файлов. Применяется для *.appcache",
+    "main": "appcache.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Aleksandr Krasnov",
+    "license": "ISC"
+}
